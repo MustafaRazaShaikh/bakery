@@ -1,0 +1,55 @@
+#MyNewBakery{
+    text-align: center;
+    font-size: 60px;
+    background-color: black;
+    color: white;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    background-color: black;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    border: 2px;
+    
+}
+#cake{
+    background-color: burlywood;
+font-size: 40px;
+color: white;
+}
+#biscuits{
+    background-color: burlywood;
+font-size: 40px;
+color: white;
+}
+#bread{
+    background-color: burlywood;
+font-size: 40px;
+color: white;
+}
+#nimco{
+    background-color: burlywood;
+font-size: 40px;
+color: white;
+}
+#contact{
+    background-color: burlywood;
+font-size: 40px;
+color: white;
+}
+#address{
+    background-color: black;
+    font-size: 40px;
+    color: white;
+}
+#category{
+    background-color: burlywood;
+    font-size: 40px;
+    color: white;
+}
